@@ -38,9 +38,3 @@ If you clone this project, follow these steps to set it up:
 > - Password: `123456`
 
 ---
-
-### :handshake: Contributors
-
-- **@h-ashraf** (Functionality Testing)
-
----
