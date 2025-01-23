@@ -1,49 +1,46 @@
+<h1 align="center"><font color="red"><i>Doctor Patient Portal in CorePHP</i></font></h1>
 
+---
 
-<h1 align="center"><font color="red"><i>Doctor Patient Portal In CorePHP</i></font><br>
+### :pencil: About the Project
 
+The **Doctor Patient Portal** is a simple yet effective solution designed to reduce long waiting lines in hospitals or clinics. It allows patients to book appointments with doctors online, providing convenience and saving time. The portal offers lifetime free membership for both doctors and patients, ensuring accessibility for everyone. Verified doctors with a good reputation make the platform trustworthy. The portal includes features like personalized dashboards for managing appointments and other tasks.
 
-### :pencil: About Project :
+---
 
-**Doctor Patient Portal is a basic portal which helps those patients who stand in line for hours to take appointments with doctor in clinic or hospitals. This portal help to reduce lines in hospital. a simple registration which is free and with lifetime membership for both doctor and patient. Verified doctors with good reputation make our portal more trusty. We provide free services like their own dashboard to manage appointments, and other things.**
+### :boom: Features
 
-<hr>
+- **Login/Register System**  
+- **Admin Panel for Management**  
+- **Create & Delete Appointments**  
+- **Explore More Yourself** :wink:
 
-### :boom: Features :
+---
 
-- ***Login/Register***
+### :paperclip: Built Using
 
-- ***Admin Panel***
+- [x] **HTML5 and CSS3**  
+- [x] **CorePHP**  
+- [x] **MySQL**  
+- [x] **Ajax**  
+- [x] **JavaScript**
 
-- ***Create appointments/ delete appointments***
+---
 
-- ***More you find yourselft*** :wink:
+### :hash: Configuration Instructions
 
-<hr>
+If you clone this project, follow these steps to set it up:  
+1. Create an empty database named `_dpp_` in your `phpMyAdmin`.  
+2. Import the `sqlfile/dpp.sql` file into the database.  
 
-### :paperclip: Made From :
+> **Default Admin Credentials:**  
+> - Email: `admin@test.com`  
+> - Password: `123456`
 
+---
 
-- [x] ***HTML 5 and CSS 3***
+### :handshake: Contributors
 
-- [x] ***CorePHP***
+- **@h-ashraf** (Functionality Testing)
 
-- [x] ***MYSQL***
-
-- [x] ***Ajax***
-
-- [x] ***Javascript***
-
-<hr>
-
-### :hash: Config
-
-**If you clone this project than in your phpmyadmin make _dpp_ name empty database and import that sqlfile/dpp.sql file in empty database**
-
->***Default admin password is : <br/>
- email :admin@test.com <br>
- password: 123456***
-
-**Contributors :**
-
-@AnupamAyank (For functionality testing ).
+---
